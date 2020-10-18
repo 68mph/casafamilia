@@ -190,6 +190,13 @@ a.btn {
 		}
 	}
 }
+/*============= AMENITIES SECTION =============*/
+.amenities {
+	ul {
+		column-count: 2;
+		column-gap: 80px;
+	}
+}
 
 /*============= PORTFOLIO SECTION =============*/
 #portfolio {
@@ -303,6 +310,11 @@ footer {
 		top:30%;
 		h1 {
 			font-size:2rem;
+		}
+	}
+	.amenities {
+		ul {
+			column-count: 1;
 		}
 	}
 	#portfolio {
