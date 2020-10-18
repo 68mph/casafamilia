@@ -199,6 +199,15 @@ a.btn:focus {
   display: table;
 }
 
+.caption {
+  z-index: 1;
+  position: absolute;
+  top: 38%;
+  width: 100%;
+  background-color: rgba(25, 25, 26, 0.5);
+  padding: 2rem 0;
+}
+
 /*-- Bouncing Down Arrow --*/
 .arrow {
   position: absolute;
